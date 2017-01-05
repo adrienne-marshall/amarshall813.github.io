@@ -1,6 +1,6 @@
 
 
-## Biography
+
 
 I'm a PhD student in Water Resources at the University of Idaho and an NSF IGERT fellow. 
 I"m interested in ecohydrology in forested and mountainous environments, with a particular interest in hydrological questions that 
